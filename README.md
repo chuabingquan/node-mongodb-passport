@@ -1,5 +1,5 @@
 # node-mongodb-passport
-Based on Dr Muppala's NodeJS Coursera Course.
+Based on Dr Muppala's NodeJS Coursera Course. 
 https://www.coursera.org/learn/server-side-development
 
 1. MongoDB credentials are stored in config.js
