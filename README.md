@@ -1,5 +1,6 @@
 # node-mongodb-passport
 Based on Dr Muppala's NodeJS Coursera Course.
+https://www.coursera.org/learn/server-side-development
 
 1. MongoDB credentials are stored in config.js
 2. Middlewares are mainly instantiated in app.js
